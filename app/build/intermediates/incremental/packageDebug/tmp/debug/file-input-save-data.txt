@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sun Mar 31 15:08:21 UTC 2019
+1.base=/root/Desktop/MedRescue/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=/root/Desktop/MedRescue/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/root/Desktop/MedRescue/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+2.baseType=DIRECTORY
+1.path=classes2.dex

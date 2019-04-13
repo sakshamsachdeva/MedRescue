@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "925709197058",
+    "firebase_url": "https://cdac-mca-project.firebaseio.com",
+    "project_id": "cdac-mca-project",
+    "storage_bucket": "cdac-mca-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925709197058:android:31cb5957304f491c",
+        "android_client_info": {
+          "package_name": "sachdeva.saksham.medrescue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925709197058-i89sveqobkp00t3q6n8eg12k2me94ttl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sachdeva.saksham.medrescue",
+            "certificate_hash": "16c255696597019cb9a3e8921a51c96438011248"
+          }
+        },
+        {
+          "client_id": "925709197058-ibamb46fl943bea826fbfpv9i0ou2o3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtS9hMSVwh__-6dtaNnH3YVkp-mI6KdSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925709197058-ibamb46fl943bea826fbfpv9i0ou2o3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

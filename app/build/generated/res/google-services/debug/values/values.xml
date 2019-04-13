@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">925709197058-ibamb46fl943bea826fbfpv9i0ou2o3l.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cdac-mca-project.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">925709197058</string>
+    <string name="google_api_key" translatable="false">AIzaSyBtS9hMSVwh__-6dtaNnH3YVkp-mI6KdSk</string>
+    <string name="google_app_id" translatable="false">1:925709197058:android:31cb5957304f491c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBtS9hMSVwh__-6dtaNnH3YVkp-mI6KdSk</string>
+    <string name="google_storage_bucket" translatable="false">cdac-mca-project.appspot.com</string>
+    <string name="project_id" translatable="false">cdac-mca-project</string>
+</resources>

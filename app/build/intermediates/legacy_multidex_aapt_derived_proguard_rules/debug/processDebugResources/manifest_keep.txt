@@ -1,0 +1,2 @@
+# Referenced at /root/Desktop/MedRescue/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:34
+-keep class android.support.multidex.MultiDexApplication { <init>(); }

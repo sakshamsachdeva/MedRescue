@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="customerName" type="id" />
+    <item name="customerPhone" type="id" />
+    <item name="customerDestination" type="id" />
+</resources>
