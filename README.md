@@ -27,18 +27,18 @@ A real time ambulance booking android based application.
 
 # Description of Modules
 
-  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slide5.JPG" height = "450" width="800"></p>
-  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slide6.JPG" height = "450" width="800"></p>
-  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slide7.JPG" height = "450" width="800"></p>
-  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slide8.JPG" height = "450" width="800"></p>
-  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slide9.JPG" height = "450" width="800"></p>
-  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slide10.JPG" height = "450" width="800"></p>
-  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slide11.JPG" height = "450" width="800"></p>
-  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slide12.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slides/Slide5.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slides/Slide6.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slides/Slide7.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slides/Slide8.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slides/Slide9.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slides/Slide10.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slides/Slide11.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slides/Slide12.JPG" height = "450" width="800"></p>
 
 # Database Structure
-  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/db2.JPG" height = "450" width="800"></p>
-  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/db1.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slides/db2.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/MedRescue/blob/master/Slides/db1.JPG" height = "450" width="800"></p>
 
 
 
